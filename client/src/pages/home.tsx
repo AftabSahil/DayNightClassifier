@@ -155,7 +155,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 text-center">
           <p className="mb-4 text-lg font-display text-white">Lumina Project</p>
           <p className="text-sm">
-            Built for College Presentation Demo. Running purely in-browser.
+            Build by Srija Bauri. Running purely in-browser.
           </p>
         </div>
       </footer>
